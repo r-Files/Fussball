@@ -6,7 +6,7 @@ The aim of this project is to present simple methods of webscraping. The followi
 
 * Date of match
 * Name of home team (without spaces)
-* Name of visiting team (wihtout spaces)
+* Name of visiting team (without spaces)
 * Final result
 
 It is important to note that the table must not contain any missing values. Therefore, the game date for all games on the same day must be specified separately.
